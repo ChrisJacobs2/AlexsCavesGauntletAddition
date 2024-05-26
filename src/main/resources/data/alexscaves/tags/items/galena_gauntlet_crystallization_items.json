@@ -4,6 +4,7 @@
     "#alexscaves:ferromagnetic_items",
     "alexscaves:desolate_dagger",
     "minecraft:diamond",
+	"#forge:storage_blocks/diamond",
     "minecraft:quartz",
     "minecraft:amethyst_shard",
     "minecraft:diamond_sword",
